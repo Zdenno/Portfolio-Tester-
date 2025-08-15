@@ -5,11 +5,11 @@ Portfolio for junior software tester
 - [CV](#cv)
 - [Skills](#technical-skills) 
 - [Tools](#tools)
-- [Courses]
+- [Courses](#courses)
   
 ## About me 
 I'm a junior software tester searching for a opportunity to work with experienced Testers and Programmers.
-Working with computers, solving problems, learning new technogies seems like everyday task. 
+Working with computers, solving problems, learning new technologies seems like everyday task. 
 Now, I wish to exploit my research and analytical skills in software testing. 
 Currently, I am studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience.
@@ -59,7 +59,7 @@ familiar with the use of aliases and wildcards
 -Postman 
 -SoapUI
 -Mantis
--Visual Studio
+-Visual Studio 
 -Selenium IDE
 
 ## Courses
