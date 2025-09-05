@@ -16,7 +16,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
 ## CV
-You can download my CV as a PDF from my Google Drive.
+You can download my CV as a [PDF from my Google Drive] (https://drive.google.com/file/d/18EIeTRaEwQxy7NTm_InH2azGxpP0Bgo1/view).
 
 ## Technical Skills
 Examples of mentioned skills can be found [here](https://drive.google.com/drive/folders/19UTPLpzYNV_Bs6fJEpqShAxkJE0gtMGU).
