@@ -21,6 +21,7 @@ You can download my CV as a [PDF from my Google Drive](https://drive.google.com/
 ## Technical Skills
 Examples of mentioned skills can be found [here](https://drive.google.com/drive/folders/19UTPLpzYNV_Bs6fJEpqShAxkJE0gtMGU).
 Examples of valid test cases for Facebook sign in page [here](https://docs.google.com/spreadsheets/d/1UDe1ftnRY9XWVIsZfPrCtzVzTdoiJ5Wtw03AsOvi3LE/edit?gid=316290929#gid=316290929)
+Example of many test case Scenarios in Trello [here(https://trello.com/b/hYNAEQrU/first-test-scenario)]
 ### Manual Testing
 - can perform functional testing, alpha testing, usability testing
 - gained hands-on experience by testing applications created for educational purposes
