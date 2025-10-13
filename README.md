@@ -19,9 +19,9 @@ It is a crucial step in my current career goal — to become a mid-level softwar
 You can download my CV as a [PDF from my Google Drive](https://drive.google.com/file/d/18EIeTRaEwQxy7NTm_InH2azGxpP0Bgo1/view).
 
 ## Technical Skills
-Examples of mentioned skills can be found [here](https://drive.google.com/drive/folders/19UTPLpzYNV_Bs6fJEpqShAxkJE0gtMGU).
-Examples of valid test cases for Facebook sign in page [here](https://docs.google.com/spreadsheets/d/1UDe1ftnRY9XWVIsZfPrCtzVzTdoiJ5Wtw03AsOvi3LE/edit?gid=316290929#gid=316290929)
-Example of many test case Scenarios in Trello [here(https://trello.com/invite/b/67bf375b97c3ffe264f4824c/ATTI2b487fb28b9490cb1c677408c51fdaedEBE02D95/first-test-scenario)]
+- Examples of mentioned skills can be found [here](https://drive.google.com/drive/folders/19UTPLpzYNV_Bs6fJEpqShAxkJE0gtMGU).
+- Examples of valid test cases for Facebook sign in page [here](https://docs.google.com/spreadsheets/d/1UDe1ftnRY9XWVIsZfPrCtzVzTdoiJ5Wtw03AsOvi3LE/edit?gid=316290929#gid=316290929).
+- Example of many test scenarios in Trello [here(https://trello.com/invite/b/67bf375b97c3ffe264f4824c/ATTI2b487fb28b9490cb1c677408c51fdaedEBE02D95/first-test-scenario)].
 ### Manual Testing
 - can perform functional testing, alpha testing, usability testing
 - gained hands-on experience by testing applications created for educational purposes
