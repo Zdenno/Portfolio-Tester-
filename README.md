@@ -65,16 +65,12 @@ familiar with the use of aliases and wildcards
 -Selenium IDE
 
 ## Courses
-Microsoft application development (2016)
-
-Programming languages:
-- Familiar with: C#, T-SQL, Javascript
-
-Technologies/Frameworks:
+Microsoft application development (2016) Contents of given course
+1. Programming languages:
+- C#, T-SQL, Javascript
+2. Technologies/Frameworks:
 - ASP.NET, .NET, LINQ, Entity Framework, LINQ to SQL, Web Services (ASMX) ,WCF, Web API, JQuery, AJAX, REST
-
-Familiar with:
-- ASP.NET MVC, HTML/CSS, TDD, SignalR, WinForms, WPF
+  - ASP.NET MVC, HTML/CSS, WinForms, WPF
 
   
 -The Complete 2025 Software Testing Bootcamp 
