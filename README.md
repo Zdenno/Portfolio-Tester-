@@ -66,11 +66,14 @@ familiar with the use of aliases and wildcards
 
 ## Courses
 Microsoft application development (2016)
--Programming languages:
+
+Programming languages:
 - Familiar with: C#, T-SQL, Javascript
--Technologies/Frameworks:
+
+Technologies/Frameworks:
 - ASP.NET, .NET, LINQ, Entity Framework, LINQ to SQL, Web Services (ASMX) ,WCF, Web API, JQuery, AJAX, REST
--Familiar with:
+
+Familiar with:
 - ASP.NET MVC, HTML/CSS, TDD, SignalR, WinForms, WPF
 
   
