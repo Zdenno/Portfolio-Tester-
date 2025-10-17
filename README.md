@@ -66,8 +66,8 @@ familiar with the use of aliases and wildcards
 
 ## Courses
 Microsoft application development (2016)
-Programming Language:
-Worked with: : C#, T-SQL, Javascript
+- Programming Language:
+-Worked with: : C#, T-SQL, Javascript
 Technologies/Frameworks:
 Worked with:
 - ASP.NET, .NET, LINQ, Entity Framework, LINQ to SQL, Web Services (ASMX) ,WCF, Web API, JQuery, AJAX, REST
