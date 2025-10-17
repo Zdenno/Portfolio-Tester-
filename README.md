@@ -66,13 +66,14 @@ familiar with the use of aliases and wildcards
 
 ## Courses
 Microsoft application development (2016)
-- Programming Language:
--Worked with: : C#, T-SQL, Javascript
+Programming languages:
+ Familiar with: C#, T-SQL, Javascript
 Technologies/Frameworks:
-Worked with:
-- ASP.NET, .NET, LINQ, Entity Framework, LINQ to SQL, Web Services (ASMX) ,WCF, Web API, JQuery, AJAX, REST
-Familiar with:
-- ASP.NET MVC, HTML/CSS, WinForms, WPF
+- ASP.NET, .NET, LINQ, Entity Framework, LINQ to SQL, Web
+Services (ASMX) ,WCF, Web API, JQuery, AJAX, REST
+ Familiar with:
+- ASP.NET MVC, HTML/CSS, TDD, SignalR, WinForms, WPF
+
   
 -The Complete 2025 Software Testing Bootcamp 
 online courses by Tarek Roshdy, Udemy 
