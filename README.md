@@ -49,7 +49,8 @@ can write Select requests
 familiar with the use of aliases and wildcards
 
 ## Language Skills:
-- English: Fluent (reading – writing – conversation)
+- Slovak: Native Language 
+- English: B1 (reading – writing – conversation)
 - Serbian: Fluent (reading – writing – conversationn)
 - Croatian: Fluent (reading – writing – conversation)
 - Bosnian: Fluent (reading – writing – conversation)
@@ -64,10 +65,19 @@ familiar with the use of aliases and wildcards
 -Selenium IDE
 
 ## Courses
-The Complete 2025 Software Testing Bootcamp 
+Microsoft application development (2016)
+Programming Language:
+Worked with: : C#, T-SQL, Javascript
+Technologies/Frameworks:
+Worked with:
+- ASP.NET, .NET, LINQ, Entity Framework, LINQ to SQL, Web Services (ASMX) ,WCF, Web API, JQuery, AJAX, REST
+Familiar with:
+- ASP.NET MVC, HTML/CSS, WinForms, WPF
+  
+-The Complete 2025 Software Testing Bootcamp 
 online courses by Tarek Roshdy, Udemy 
   
-Git & GitHub - The Practical Guide
+-Git & GitHub - The Practical Guide
 
 
  
