@@ -27,7 +27,7 @@ You can download my CV as a [PDF from my Google Drive](https://drive.google.com/
 - gained hands-on experience by testing applications created for educational purposes
   
 ### Automatic Testing 
-- can perform Automation testing in Selenium, using jUnit framework, Java language with maven compiler.
+- can perform Automation testing in Selenium, using jUnit framework, Java language with maven compiler. (Examples)[https://github.com/Zdenno/SeleniumBegining-/tree/master/src/test/java]
 - gained experience by testing projects for educational purposes, similar to realtime application without a database.
 
 ### Test analysis & design
