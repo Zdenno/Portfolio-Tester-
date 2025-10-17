@@ -65,7 +65,11 @@ familiar with the use of aliases and wildcards
 -Selenium IDE
 
 ## Courses
-Microsoft application development (2015-2016) 
+-The Complete 2025 Software Testing Bootcamp 
+online courses by Tarek Roshdy, Udemy   
+-Git & GitHub - The Practical Guide
+-Microsoft application development (2015-2016) 
+
 Contents of given course
 1. Programming languages:
    - C#, T-SQL, Javascript
@@ -74,10 +78,6 @@ Contents of given course
      - ASP.NET MVC, HTML/CSS, WinForms, WPF
 
   
--The Complete 2025 Software Testing Bootcamp 
-online courses by Tarek Roshdy, Udemy 
-  
--Git & GitHub - The Practical Guide
 
 
  
